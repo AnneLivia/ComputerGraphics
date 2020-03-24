@@ -188,7 +188,7 @@ void display() {
        glColor3f(0.0, 0.0, 1.0); // change color of the primitive (this color is assign to all following vertexes)
        glVertex2f(0.0, y_pos_triangle+2.0);
        glVertex2f(3.0, y_pos_triangle+-2.0);
-       glVertex2f(-3.0, y_pos_triangle-2.0);
+       glVertex2f(-3.0, y_pos_triangle+-2.0);
 
      glEnd(); // GL End specify that the drawn of the vertexes has finished.
 
