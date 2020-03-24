@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1585009444 source:c:\users\annel\downloads\programming\computer graphics\projection\main.cpp
+1585024927 source:c:\users\annel\downloads\programming\computer graphics\projection\main.cpp
 	<GL/gl.h>
 	<GL/glu.h>
 	<GL/glut.h>
